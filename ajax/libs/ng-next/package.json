@@ -1,0 +1,17 @@
+{
+    "name": "ng-next",
+    "filename": "ng-next.min.js",
+    "version": "0.1",
+    "description": "An angular module that let's you use Express like next() feature",
+    "homepage": "http://pranay92.github.io/ng-next/",
+    "keywords": [
+       "ng-next"
+   ],
+   "maintainers": [
+       {
+           "name": "Pranay Dubey",
+           "web": "https://plus.google.com/112248757393327206998" 
+       }
+   ],
+   "repositories": []
+}
